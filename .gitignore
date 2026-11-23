@@ -1,0 +1,20 @@
+# Flutter / Dart build output
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+windows/flutter/ephemeral/
+
+# Editors
+.idea/
+*.iml
+.vs/
+.vscode/
+
+# App debug output (contains downloaded pages and photo crops)
+debug_last_run/
+
+# OS
+Thumbs.db
+.DS_Store
